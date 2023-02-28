@@ -1,0 +1,24 @@
+body {
+    background-color: #0D1624;
+    text-align: center;
+    font-family: Rubik;
+}
+h1 {
+    font-weight: 600;
+    padding: 50px;
+    color: aliceblue;
+    font-size: 3rem;
+}
+button {
+    padding: 20px;
+    border-radius: 50px;
+    background: aliceblue;
+    color: #0D1624;
+    border: solid;
+    border-color: #0D1624;
+    cursor: pointer;
+    font-size: 2rem;
+    font-family: Rubik;
+    width: 20%;
+}
+  
