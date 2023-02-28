@@ -19,6 +19,7 @@ button {
     cursor: pointer;
     font-size: 2rem;
     font-family: Rubik;
-    width: 20%;
+    width: 150px;
+    text-align: center;
 }
   
